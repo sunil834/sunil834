@@ -4,26 +4,26 @@ Welcome to my GitHub profile! I’m passionate about exploring the depths of tec
 
 ## 👀 Interests
 
-- **Cybersecurity**: Passionate about ethical hacking, penetration testing, and protecting systems from cyber threats.
-- **Web Development**: Enjoy creating dynamic and responsive websites using the latest web technologies.
-- **Modding**: Love modifying games and applications to enhance functionality and user experience.
-- **Cracking**: Interested in reverse engineering and understanding how software protection mechanisms work.
-- **Config Making**: Skilled in creating and customizing configurations for various tools and applications.
-- **Combo Making**: Expertise in creating and managing lists and combinations for specific use cases.
+- **Cybersecurity**
+- **Web Development**
+- **Modding**
+- **Cracking**
+- **Config Making**
+- **Combo Making**
 
 ## 🌱 Currently Learning
 
-- **Python**: Enhancing my skills in Python for various applications, including automation, web development, and data analysis.
-- **Web Development**: Deepening my knowledge of modern web frameworks and tools to build more interactive and efficient websites.
-- **Cybersecurity**: Exploring advanced security techniques and tools to improve threat detection and mitigation.
-- **New Programming Languages**: Continuously expanding my proficiency by learning new programming languages to stay updated with emerging technologies.
+- **Python**
+- **Web Development**
+- **Cybersecurity**
+- **New Programming Languages**
 
 ## 💞️ Collaboration
 
-- **Open-Source Projects**: Interested in contributing to and maintaining open-source software that benefits the community.
-- **Development**: Looking to join or lead development teams to create innovative and impactful software applications.
-- **Hackathons**: Keen on participating in hackathons to solve challenging problems and develop quick, innovative solutions.
-- **Educational Content Creation**: Excited about creating tutorials, guides, and courses to help others learn about cybersecurity, programming, and web development.
+- **Open-Source Projects**
+- **Development**
+- **Hackathons**
+- **Educational Content Creation**
 
 ## 📫 Contact Me
 
