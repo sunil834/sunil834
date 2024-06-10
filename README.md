@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Sunil (@sunil834)
-
 Welcome to my GitHub profile! I’m passionate about exploring the depths of technology and contributing to open-source projects.
 
 ## 👀 Interests
