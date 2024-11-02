@@ -6,9 +6,8 @@ Welcome to my GitHub profile! I’m passionate about exploring the depths of tec
 - **Cybersecurity**
 - **Web Development**
 - **Modding**
-- **Cracking**
+- **API testing**
 - **Config Making**
-- **Combo Making**
 
 ## 🌱 Currently Learning
 
