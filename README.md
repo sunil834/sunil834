@@ -4,17 +4,17 @@ Welcome to my GitHub profile! I’m passionate about exploring the depths of tec
 ## 👀 Interests
 
 - **Cybersecurity**
-- **Web Development**
+- **Python/Java**
 - **re**
 - **API testing**
-- **Config Making**
+- **Web Automation Scripts**
 
 ## 🌱 Currently Learning
 
-- **Python**
+- **DSA**
 - **Web Development**
 - **Cybersecurity**
-- **New Programming Languages**
+- **Exploring Tools**
 
 ## 💞️ Collaboration
 
